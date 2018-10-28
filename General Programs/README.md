@@ -1,6 +1,6 @@
 # **General _C++_ programs**
-[https://img.shields.io/badge/Build-C%2B%2B-orange.svg]()
-[https://img.shields.io/badge/Build-VS-brightgreen.svg]()
+[![Build](https://img.shields.io/badge/Build-C%2B%2B-orange.svg)]()
+[![Version](https://img.shields.io/badge/Build-VS-brightgreen.svg)]()
 
 This repository contains all the **General programs of C++** which are developed by using **_structure programming of C++_** 
 
